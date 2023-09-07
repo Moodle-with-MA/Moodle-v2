@@ -1,0 +1,15 @@
+a:9:{s:15:"backgroundimage";s:0:"";s:10:"brandcolor";s:0:"";s:20:"loginbackgroundimage";s:0:"";s:6:"preset";s:12:"default.scss";s:11:"presetfiles";s:0:"";s:4:"scss";s:197:"#loginguestbtn{
+display : none;
+}
+.login-form-forgotpassword{
+display : none;
+}
+h2.login-heading{
+display :none;
+}
+.login-divider{
+display : none ;
+}
+.login-heading{
+display : none;
+}";s:7:"scsspre";s:0:"";s:15:"unaddableblocks";s:45:"navigation,settings,course_list,section_links";s:7:"version";s:10:"2022041900";}
